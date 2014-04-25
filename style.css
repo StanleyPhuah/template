@@ -1,5 +1,5 @@
 body {
-	color:#82CAFA;
+	color:#4863A0;
 	background:white;
 	font-family:Garamond;
 	width:960px;
@@ -15,11 +15,11 @@ header, main, footer {
 }
 
 header, main h1 {
-	color:#0000A0;
+	color:#000080;
 }
 
 a, a:visited {
-	color:#151B54;
+	color:#728FCE;
 	text-decoration:none;
 }
 
